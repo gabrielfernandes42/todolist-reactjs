@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  left: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100vh;
+  background: #2f3640;
+}
+
+.App {
+  background-color: #2a2d32;
+  margin: 3rem auto;
+  max-width: 500px;
+  border-radius: 4px;
+  padding: 1rem;
+}
